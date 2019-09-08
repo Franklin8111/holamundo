@@ -1,0 +1,76 @@
+body{
+	
+background-color: white;
+}
+/*comenzamos con el menu*/
+.menu{
+	background-color: #2c3338;
+	margin: 0 auto;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+.navegacion
+{
+
+	background: white;
+	text-align: center;
+
+}
+
+.navegacion ul
+{
+	list-style: none;
+}
+
+.menu > li
+{
+	margin-left: 20px;
+	position: relative;
+	display: inline-block;
+}
+
+.menu > li > a
+{
+	display: block;
+	padding: 20px 22px;
+	color: white;
+	font-family: 'Open sans';
+	text-decoration: none;
+}
+
+.menu li a:hover
+{
+	color: yellow;
+}
+.cuerpo{
+	width: 1200px;
+	padding: 10px;
+	height: 600px;
+	margin:  0 auto;
+}
+.bloque
+{
+	width: 950px;
+	height: 500px;
+	margin-left: 160;
+	margin-top: -100px;
+}
+.btn{
+	padding: 10px;
+	background-color: green;
+	border-radius: 5px;
+	color: white;
+	font-family: sans-serif;
+}
+h3{
+	color: green;
+}
+.ini{
+	margin-top: 100px;
+	width: 400px;
+	background-color: white;
+	border-radius: 8px;
+	padding: 30px;
+}
